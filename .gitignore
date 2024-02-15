@@ -6,3 +6,7 @@
 /WebApiRest/.vs
 /WebApiRest/WebApiRest/bin/Debug/net8.0
 /WebApiRest/WebApiRest/obj
+/WebApiRest/ConsoleApp/bin/Debug/net8.0
+/WebApiRest/ConsoleApp/obj
+/WebApiRest/ConsoleApp/bin/Release/net8.0
+/WebApiRest/ConsoleApp/Properties/PublishProfiles
